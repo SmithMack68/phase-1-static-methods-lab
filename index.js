@@ -19,6 +19,11 @@ class Formatter {
   }
   
 } 
+Formatter.capitalize(
+Formatter.sanitize(
+Formatter.titleize()
+)
+)
 
 //if w = (the', 'a', 'an', 'but', 'of', 'and', 'for', 'at', 'by', 'from').toLowerCase()
 // but I have no idea how to do this
